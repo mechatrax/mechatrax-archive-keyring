@@ -1,3 +1,10 @@
+mechatrax-archive-keyring (2016.12.19.1) stretch; urgency=low
+
+  * debian/control: Change Homepage URL
+  * Update Standards-Version to 3.9.8
+
+ -- Masahiro Honda <honda@mechatrax.com>  Tue, 31 Oct 2017 15:58:17 +0900
+
 mechatrax-archive-keyring (2016.12.19) jessie; urgency=low
 
   * Initial release.
