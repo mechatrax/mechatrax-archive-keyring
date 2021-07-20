@@ -2,9 +2,9 @@ Source: mechatrax-archive-keyring
 Section: misc
 Priority: optional
 Maintainer: Masahiro Honda <honda@mechatrax.com>
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
-Homepage: https://www.mechatrax.com/
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.3.0
+Homepage: https://mechatrax.com/
 
 Package: mechatrax-archive-keyring
 Architecture: all
