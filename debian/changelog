@@ -1,3 +1,12 @@
+mechatrax-archive-keyring (2016.12.19.3) bullseye; urgency=medium
+
+  * debian/compat: Deleted
+  * debian/control
+    - Change Build-Depends to debhelper-compat from debhelper
+    - Bump Standards-Version to 4.5.1
+
+ -- Yuta Kiyonaga <kiyonaga@mechatrax.com>  Tue, 20 Jul 2021 08:11:49 +0000
+
 mechatrax-archive-keyring (2016.12.19.2) buster; urgency=medium
 
   * debian/control: Update Homepage URL
