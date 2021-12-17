@@ -13,5 +13,5 @@ mechatrax のリポジトリの署名を提供します。
 * /usr/share/keyrings/mechatrax-archive-keyring.gpg  
   mechatrax のリポジトリの公開鍵が含まれています。  
 
-* /etc/apt/trusted.gpg.d/mechatrax-archive.gpg  
-  mechatrax のリポジトリの公開鍵です。  
+* /usr/share/keyrings/mechatrax-archive-removed-keys.gpg  
+  廃止された mechatrax のリポジトリの公開鍵が含まれています。  
