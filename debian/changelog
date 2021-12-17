@@ -1,3 +1,10 @@
+mechatrax-archive-keyring (2016.12.19.4) bullseye; urgency=medium
+
+  * debian/control: Bump Standard-Version to 4.5.2
+  * debian/install: Delete mechatrax-archive.gpg install
+
+ -- Yuta Kiyonaga <kiyonaga@mechatrax.com>  Fri, 17 Dec 2021 10:20:17 +0900
+
 mechatrax-archive-keyring (2016.12.19.3) bullseye; urgency=medium
 
   * debian/compat: Deleted
