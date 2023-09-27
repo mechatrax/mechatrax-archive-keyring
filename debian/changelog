@@ -1,3 +1,9 @@
+mechatrax-archive-keyring (2016.12.19.4+deb11u1) bullseye; urgency=medium
+
+  * keyrings/mechatrax-archive-keyring.gpg: Add ED25519 new release key
+
+ -- Yuta Kiyonaga <kiyonaga@mechatrax.com>  Mon, 25 Sep 2023 17:57:07 +0900
+
 mechatrax-archive-keyring (2016.12.19.4) bullseye; urgency=medium
 
   * debian/install: Delete mechatrax-archive.gpg install
