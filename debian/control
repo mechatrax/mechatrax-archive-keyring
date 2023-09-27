@@ -2,8 +2,9 @@ Source: mechatrax-archive-keyring
 Section: misc
 Priority: optional
 Maintainer: Yuta Kiyonaga <kiyonaga@mechatrax.com>
+Uploaders: Masahiro Honda <honda@mechatrax.com>
 Build-Depends: debhelper-compat (= 12)
-Standards-Version: 4.5.1
+Standards-Version: 4.6.2
 Homepage: https://mechatrax.com/
 
 Package: mechatrax-archive-keyring
