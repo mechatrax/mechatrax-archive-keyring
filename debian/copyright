@@ -1,11 +1,14 @@
 This is MechaTracks's GnuPG keyring of archive keys.
 
+Upstream-Contact:
+
+    https://github.com/mechatrax/mechatrax-archive-keyring/issues
+
 Copyright:
   
     The keys in the keyrings don't fall under any copyright.
 
     The other files are Copyright (C) 2016 MechaTracks Co., Ltd.
-    <info@mechatrax.com>.
 
 
 License:

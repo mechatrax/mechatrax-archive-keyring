@@ -1,3 +1,9 @@
+mechatrax-archive-keyring (2023.06.01.1) bookworm; urgency=medium
+
+  * debian/copyright: Update contact information
+
+ -- Yuta Kiyonaga <kiyonaga@mechatrax.com>  Fri, 08 Dec 2023 13:14:05 +0900
+
 mechatrax-archive-keyring (2023.06.01) bookworm; urgency=medium
 
   * debian/control
